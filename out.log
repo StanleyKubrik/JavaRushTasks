@@ -229,3 +229,5 @@ java.lang.NullPointerException
 2018-03-19 14:44:23 ERROR MessageBusConnectionImpl.b(151) - Vendor: JetBrains s.r.o
 2018-03-19 14:44:23 ERROR MessageBusConnectionImpl.b(152) - OS: Windows 7
 2018-03-19 14:44:23 ERROR MessageBusConnectionImpl.b(158) - Last Action: RunClass
+2018-03-20 09:48:14 INFO  JavaRushTasksProjectComponent.projectClosing(162) - ---------- Project JavaRushTasks closed ----------
+
