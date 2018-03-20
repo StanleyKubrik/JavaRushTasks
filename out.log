@@ -1,0 +1,231 @@
+2018-03-19 13:54:46 INFO  JavaRushTasksProjectComponent.projectOpened(68) - ---------- Project JavaRushTasks opened ----------
+
+2018-03-19 13:54:46 INFO  ApacheHttpClient.createAsyncHttpClient(126) - Выбрано 1 прокси.
+2018-03-19 13:54:46 INFO  ApacheHttpClient.<init>(87) - ApacheHttpClient проинстанциирован успешно.
+2018-03-19 13:54:46 INFO  ApacheHttpClient.testConnection(184) - responseCode = 200
+2018-03-19 13:54:46 INFO  ApacheHttpClient.testConnection(192) - result = true
+2018-03-19 13:54:48 INFO  ApacheHttpClient.login(216) - Ожидание ответа сервера.
+2018-03-19 13:54:48 INFO  ApacheHttpClient.login(220) - responseCode = 200
+2018-03-19 13:54:48 INFO  ApacheHttpClient.login(251) - JSESSIONID=32CFEDB02BB137E6E8F94EF5922D44FC
+2018-03-19 13:54:48 INFO  ApacheHttpClient.refreshUserInfo(279) - responseCode = 200
+2018-03-19 13:54:48 INFO  ApacheHttpClient.refreshUserInfo(285) - Информация о пользователе получена.
+2018-03-19 13:54:48 INFO  ApacheHttpClient.startGA(31) - GAService запущен.
+2018-03-19 13:54:48 WARN  JavaRushUtil.isProjectStructureCorrect(318) - Структура проекта невалидная.
+2018-03-19 14:44:18 ERROR MessageBusConnectionImpl.error(134) - null
+java.lang.NullPointerException
+	at com.javarush.plugin.JavaRushUtil.isJRFile(JavaRushUtil.java:708)
+	at com.javarush.plugin.JavaRushTasksProjectComponent.startFileTimeTracking(JavaRushTasksProjectComponent.java:218)
+	at com.javarush.plugin.JavaRushTasksProjectComponent.access$600(JavaRushTasksProjectComponent.java:33)
+	at com.javarush.plugin.JavaRushTasksProjectComponent$1$1.selectionChanged(JavaRushTasksProjectComponent.java:110)
+	at sun.reflect.GeneratedMethodAccessor117.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.util.messages.impl.MessageBusConnectionImpl.deliverMessage(MessageBusConnectionImpl.java:117)
+	at com.intellij.util.messages.impl.MessageBusImpl.doPumpMessages(MessageBusImpl.java:443)
+	at com.intellij.util.messages.impl.MessageBusImpl.pumpWaitingBuses(MessageBusImpl.java:404)
+	at com.intellij.util.messages.impl.MessageBusImpl.pumpMessages(MessageBusImpl.java:393)
+	at com.intellij.util.messages.impl.MessageBusImpl.pumpMessages(MessageBusImpl.java:381)
+	at com.intellij.util.messages.impl.MessageBusImpl.sendMessage(MessageBusImpl.java:374)
+	at com.intellij.util.messages.impl.MessageBusImpl.access$200(MessageBusImpl.java:45)
+	at com.intellij.util.messages.impl.MessageBusImpl$2.invoke(MessageBusImpl.java:231)
+	at com.sun.proxy.$Proxy137.selectionChanged(Unknown Source)
+	at com.intellij.openapi.fileEditor.impl.FileEditorManagerImpl.a(FileEditorManagerImpl.java:1548)
+	at com.intellij.openapi.fileEditor.impl.FileEditorManagerImpl$5$1.run(FileEditorManagerImpl.java:1031)
+	at com.intellij.openapi.wm.impl.FocusManagerImpl.a(FocusManagerImpl.java:640)
+	at com.intellij.openapi.wm.impl.FocusManagerImpl.s(FocusManagerImpl.java:624)
+	at com.intellij.openapi.wm.impl.FocusManagerImpl.m(FocusManagerImpl.java:594)
+	at com.intellij.openapi.wm.impl.FocusManagerImpl.access$200(FocusManagerImpl.java:61)
+	at com.intellij.openapi.wm.impl.FocusManagerImpl$IdleRunnable.runEdt(FocusManagerImpl.java:107)
+	at com.intellij.openapi.util.EdtRunnable.lambda$run$0(EdtRunnable.java:27)
+	at com.intellij.util.ui.UIUtil.invokeLaterIfNeeded(UIUtil.java:2760)
+	at com.intellij.openapi.util.EdtRunnable.run(EdtRunnable.java:25)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at com.intellij.util.concurrency.SchedulingWrapper$MyScheduledFutureTask.run(SchedulingWrapper.java:237)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:762)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:732)
+	at com.intellij.ide.IdeEventQueue.k(IdeEventQueue.java:821)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:649)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:365)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-03-19 14:44:18 ERROR MessageBusConnectionImpl.b(142) - IntelliJ IDEA 2017.2.7  Build #IU-172.4574.19
+2018-03-19 14:44:18 ERROR MessageBusConnectionImpl.b(149) - JDK: 1.8.0_152-release
+2018-03-19 14:44:18 ERROR MessageBusConnectionImpl.b(150) - VM: OpenJDK 64-Bit Server VM
+2018-03-19 14:44:18 ERROR MessageBusConnectionImpl.b(151) - Vendor: JetBrains s.r.o
+2018-03-19 14:44:18 ERROR MessageBusConnectionImpl.b(152) - OS: Windows 7
+2018-03-19 14:44:18 ERROR MessageBusConnectionImpl.b(158) - Last Action: RunClass
+2018-03-19 14:44:18 ERROR MessageBusConnectionImpl.error(134) - null
+java.lang.NullPointerException
+	at com.javarush.plugin.JavaRushUtil.isJRFile(JavaRushUtil.java:708)
+	at com.javarush.plugin.JavaRushTasksProjectComponent.startFileTimeTracking(JavaRushTasksProjectComponent.java:218)
+	at com.javarush.plugin.JavaRushTasksProjectComponent.access$600(JavaRushTasksProjectComponent.java:33)
+	at com.javarush.plugin.JavaRushTasksProjectComponent$1$1.fileOpened(JavaRushTasksProjectComponent.java:91)
+	at sun.reflect.GeneratedMethodAccessor118.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.util.messages.impl.MessageBusConnectionImpl.deliverMessage(MessageBusConnectionImpl.java:117)
+	at com.intellij.util.messages.impl.MessageBusImpl.doPumpMessages(MessageBusImpl.java:443)
+	at com.intellij.util.messages.impl.MessageBusImpl.pumpWaitingBuses(MessageBusImpl.java:404)
+	at com.intellij.util.messages.impl.MessageBusImpl.pumpMessages(MessageBusImpl.java:393)
+	at com.intellij.util.messages.impl.MessageBusImpl.pumpMessages(MessageBusImpl.java:381)
+	at com.intellij.util.messages.impl.MessageBusImpl.sendMessage(MessageBusImpl.java:374)
+	at com.intellij.util.messages.impl.MessageBusImpl.access$200(MessageBusImpl.java:45)
+	at com.intellij.util.messages.impl.MessageBusImpl$2.invoke(MessageBusImpl.java:231)
+	at com.sun.proxy.$Proxy137.fileOpened(Unknown Source)
+	at com.intellij.openapi.fileEditor.impl.FileEditorManagerImpl.b(FileEditorManagerImpl.java:938)
+	at com.intellij.openapi.fileEditor.impl.FileEditorManagerImpl$5$1.run(FileEditorManagerImpl.java:1031)
+	at com.intellij.openapi.wm.impl.FocusManagerImpl.a(FocusManagerImpl.java:640)
+	at com.intellij.openapi.wm.impl.FocusManagerImpl.s(FocusManagerImpl.java:624)
+	at com.intellij.openapi.wm.impl.FocusManagerImpl.m(FocusManagerImpl.java:594)
+	at com.intellij.openapi.wm.impl.FocusManagerImpl.access$200(FocusManagerImpl.java:61)
+	at com.intellij.openapi.wm.impl.FocusManagerImpl$IdleRunnable.runEdt(FocusManagerImpl.java:107)
+	at com.intellij.openapi.util.EdtRunnable.lambda$run$0(EdtRunnable.java:27)
+	at com.intellij.util.ui.UIUtil.invokeLaterIfNeeded(UIUtil.java:2760)
+	at com.intellij.openapi.util.EdtRunnable.run(EdtRunnable.java:25)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at com.intellij.util.concurrency.SchedulingWrapper$MyScheduledFutureTask.run(SchedulingWrapper.java:237)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:762)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:732)
+	at com.intellij.ide.IdeEventQueue.k(IdeEventQueue.java:821)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:649)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:365)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-03-19 14:44:18 ERROR MessageBusConnectionImpl.b(142) - IntelliJ IDEA 2017.2.7  Build #IU-172.4574.19
+2018-03-19 14:44:18 ERROR MessageBusConnectionImpl.b(149) - JDK: 1.8.0_152-release
+2018-03-19 14:44:18 ERROR MessageBusConnectionImpl.b(150) - VM: OpenJDK 64-Bit Server VM
+2018-03-19 14:44:18 ERROR MessageBusConnectionImpl.b(151) - Vendor: JetBrains s.r.o
+2018-03-19 14:44:18 ERROR MessageBusConnectionImpl.b(152) - OS: Windows 7
+2018-03-19 14:44:18 ERROR MessageBusConnectionImpl.b(158) - Last Action: RunClass
+2018-03-19 14:44:23 ERROR MessageBusConnectionImpl.error(134) - null
+java.lang.NullPointerException
+	at com.javarush.plugin.JavaRushUtil.isJRFile(JavaRushUtil.java:708)
+	at com.javarush.plugin.JavaRushTasksProjectComponent.endFileTimeTracking(JavaRushTasksProjectComponent.java:206)
+	at com.javarush.plugin.JavaRushTasksProjectComponent.endFileTimeTracking(JavaRushTasksProjectComponent.java:202)
+	at com.javarush.plugin.JavaRushTasksProjectComponent.access$800(JavaRushTasksProjectComponent.java:33)
+	at com.javarush.plugin.JavaRushTasksProjectComponent$1$1.selectionChanged(JavaRushTasksProjectComponent.java:106)
+	at sun.reflect.GeneratedMethodAccessor117.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.util.messages.impl.MessageBusConnectionImpl.deliverMessage(MessageBusConnectionImpl.java:117)
+	at com.intellij.util.messages.impl.MessageBusImpl.doPumpMessages(MessageBusImpl.java:443)
+	at com.intellij.util.messages.impl.MessageBusImpl.pumpWaitingBuses(MessageBusImpl.java:404)
+	at com.intellij.util.messages.impl.MessageBusImpl.pumpMessages(MessageBusImpl.java:393)
+	at com.intellij.util.messages.impl.MessageBusImpl.pumpMessages(MessageBusImpl.java:381)
+	at com.intellij.util.messages.impl.MessageBusImpl.sendMessage(MessageBusImpl.java:374)
+	at com.intellij.util.messages.impl.MessageBusImpl.access$200(MessageBusImpl.java:45)
+	at com.intellij.util.messages.impl.MessageBusImpl$2.invoke(MessageBusImpl.java:231)
+	at com.sun.proxy.$Proxy137.selectionChanged(Unknown Source)
+	at com.intellij.openapi.fileEditor.impl.FileEditorManagerImpl.a(FileEditorManagerImpl.java:1548)
+	at com.intellij.openapi.fileEditor.impl.FileEditorManagerImpl$5$1.run(FileEditorManagerImpl.java:1031)
+	at com.intellij.openapi.wm.impl.FocusManagerImpl.a(FocusManagerImpl.java:640)
+	at com.intellij.openapi.wm.impl.FocusManagerImpl.s(FocusManagerImpl.java:624)
+	at com.intellij.openapi.wm.impl.FocusManagerImpl.m(FocusManagerImpl.java:594)
+	at com.intellij.openapi.wm.impl.FocusManagerImpl.access$200(FocusManagerImpl.java:61)
+	at com.intellij.openapi.wm.impl.FocusManagerImpl$IdleRunnable.runEdt(FocusManagerImpl.java:107)
+	at com.intellij.openapi.util.EdtRunnable.lambda$run$0(EdtRunnable.java:27)
+	at com.intellij.util.ui.UIUtil.invokeLaterIfNeeded(UIUtil.java:2760)
+	at com.intellij.openapi.util.EdtRunnable.run(EdtRunnable.java:25)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at com.intellij.util.concurrency.SchedulingWrapper$MyScheduledFutureTask.run(SchedulingWrapper.java:237)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:762)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:732)
+	at com.intellij.ide.IdeEventQueue.k(IdeEventQueue.java:821)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:649)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:365)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-03-19 14:44:23 ERROR MessageBusConnectionImpl.b(142) - IntelliJ IDEA 2017.2.7  Build #IU-172.4574.19
+2018-03-19 14:44:23 ERROR MessageBusConnectionImpl.b(149) - JDK: 1.8.0_152-release
+2018-03-19 14:44:23 ERROR MessageBusConnectionImpl.b(150) - VM: OpenJDK 64-Bit Server VM
+2018-03-19 14:44:23 ERROR MessageBusConnectionImpl.b(151) - Vendor: JetBrains s.r.o
+2018-03-19 14:44:23 ERROR MessageBusConnectionImpl.b(152) - OS: Windows 7
+2018-03-19 14:44:23 ERROR MessageBusConnectionImpl.b(158) - Last Action: RunClass
+2018-03-19 14:44:23 ERROR MessageBusConnectionImpl.error(134) - null
+java.lang.NullPointerException
+	at com.javarush.plugin.JavaRushUtil.isJRFile(JavaRushUtil.java:708)
+	at com.javarush.plugin.JavaRushTasksProjectComponent.endFileTimeTracking(JavaRushTasksProjectComponent.java:206)
+	at com.javarush.plugin.JavaRushTasksProjectComponent.endFileTimeTracking(JavaRushTasksProjectComponent.java:202)
+	at com.javarush.plugin.JavaRushTasksProjectComponent.access$800(JavaRushTasksProjectComponent.java:33)
+	at com.javarush.plugin.JavaRushTasksProjectComponent$1$1.fileClosed(JavaRushTasksProjectComponent.java:98)
+	at sun.reflect.GeneratedMethodAccessor451.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.util.messages.impl.MessageBusConnectionImpl.deliverMessage(MessageBusConnectionImpl.java:117)
+	at com.intellij.util.messages.impl.MessageBusImpl.doPumpMessages(MessageBusImpl.java:443)
+	at com.intellij.util.messages.impl.MessageBusImpl.pumpWaitingBuses(MessageBusImpl.java:404)
+	at com.intellij.util.messages.impl.MessageBusImpl.pumpMessages(MessageBusImpl.java:393)
+	at com.intellij.util.messages.impl.MessageBusImpl.pumpMessages(MessageBusImpl.java:381)
+	at com.intellij.util.messages.impl.MessageBusImpl.sendMessage(MessageBusImpl.java:374)
+	at com.intellij.util.messages.impl.MessageBusImpl.access$200(MessageBusImpl.java:45)
+	at com.intellij.util.messages.impl.MessageBusImpl$2.invoke(MessageBusImpl.java:231)
+	at com.sun.proxy.$Proxy137.fileClosed(Unknown Source)
+	at com.intellij.openapi.fileEditor.impl.EditorWindow.a(EditorWindow.java:294)
+	at com.intellij.openapi.fileEditor.impl.FileEditorManagerImpl$5$1.run(FileEditorManagerImpl.java:1031)
+	at com.intellij.openapi.wm.impl.FocusManagerImpl.a(FocusManagerImpl.java:640)
+	at com.intellij.openapi.wm.impl.FocusManagerImpl.s(FocusManagerImpl.java:624)
+	at com.intellij.openapi.wm.impl.FocusManagerImpl.m(FocusManagerImpl.java:594)
+	at com.intellij.openapi.wm.impl.FocusManagerImpl.access$200(FocusManagerImpl.java:61)
+	at com.intellij.openapi.wm.impl.FocusManagerImpl$IdleRunnable.runEdt(FocusManagerImpl.java:107)
+	at com.intellij.openapi.util.EdtRunnable.lambda$run$0(EdtRunnable.java:27)
+	at com.intellij.util.ui.UIUtil.invokeLaterIfNeeded(UIUtil.java:2760)
+	at com.intellij.openapi.util.EdtRunnable.run(EdtRunnable.java:25)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at com.intellij.util.concurrency.SchedulingWrapper$MyScheduledFutureTask.run(SchedulingWrapper.java:237)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:762)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:732)
+	at com.intellij.ide.IdeEventQueue.k(IdeEventQueue.java:821)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:649)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:365)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-03-19 14:44:23 ERROR MessageBusConnectionImpl.b(142) - IntelliJ IDEA 2017.2.7  Build #IU-172.4574.19
+2018-03-19 14:44:23 ERROR MessageBusConnectionImpl.b(149) - JDK: 1.8.0_152-release
+2018-03-19 14:44:23 ERROR MessageBusConnectionImpl.b(150) - VM: OpenJDK 64-Bit Server VM
+2018-03-19 14:44:23 ERROR MessageBusConnectionImpl.b(151) - Vendor: JetBrains s.r.o
+2018-03-19 14:44:23 ERROR MessageBusConnectionImpl.b(152) - OS: Windows 7
+2018-03-19 14:44:23 ERROR MessageBusConnectionImpl.b(158) - Last Action: RunClass
