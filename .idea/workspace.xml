@@ -7,6 +7,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec4f1fc6-9820-449b-9bcb-d4b2aff05b15" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level4/task57_lev4_lec4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level4/task58_lev4_lec4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level4/task59_lev4_lec4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level4/task60_lev4_lec4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level4/task61_lev4_lec4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level4/task62_lev4_lec4.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -57,6 +63,12 @@
         <option value="$PROJECT_DIR$/src/level4/task53_lev4_lec2.java" />
         <option value="$PROJECT_DIR$/src/level4/task55_lev4_lec4.java" />
         <option value="$PROJECT_DIR$/src/level4/task56_lev4_lec4.java" />
+        <option value="$PROJECT_DIR$/src/level4/task57_lev4_lec4.java" />
+        <option value="$PROJECT_DIR$/src/level4/task58_lev4_lec4.java" />
+        <option value="$PROJECT_DIR$/src/level4/task59_lev4_lec4.java" />
+        <option value="$PROJECT_DIR$/src/level4/task60_lev4_lec4.java" />
+        <option value="$PROJECT_DIR$/src/level4/task61_lev4_lec4.java" />
+        <option value="$PROJECT_DIR$/src/level4/task62_lev4_lec4.java" />
       </list>
     </option>
   </component>
@@ -139,7 +151,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.task56_lev4_lec4">
+  <component name="RunManager" selected="Application.task62_lev4_lec4">
     <configuration name="HelloWorld" type="JarApplication" factoryName="JAR Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/JavaRushTasks_jar/JavaRushTasks.jar" />
@@ -231,14 +243,14 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="task52_lev4_lec2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="task58_lev4_lec4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="level4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="level4.task52_lev4_lec2" />
+      <option name="MAIN_CLASS_NAME" value="level4.task58_lev4_lec4" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -250,14 +262,14 @@
       <module name="JavaRushTasks" />
       <envs />
     </configuration>
-    <configuration name="task53_lev4_lec2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="task59_lev4_lec4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="level4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="level4.task53_lev4_lec2" />
+      <option name="MAIN_CLASS_NAME" value="level4.task59_lev4_lec4" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -269,14 +281,14 @@
       <module name="JavaRushTasks" />
       <envs />
     </configuration>
-    <configuration name="task54_lev4_lec2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="task60_lev4_lec4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="level4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="level4.task54_lev4_lec2" />
+      <option name="MAIN_CLASS_NAME" value="level4.task60_lev4_lec4" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -288,14 +300,14 @@
       <module name="JavaRushTasks" />
       <envs />
     </configuration>
-    <configuration name="task55_lev4_lec4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="task61_lev4_lec4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="level4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="level4.task55_lev4_lec4" />
+      <option name="MAIN_CLASS_NAME" value="level4.task61_lev4_lec4" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -307,14 +319,14 @@
       <module name="JavaRushTasks" />
       <envs />
     </configuration>
-    <configuration name="task56_lev4_lec4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="task62_lev4_lec4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="level4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="level4.task56_lev4_lec4" />
+      <option name="MAIN_CLASS_NAME" value="level4.task62_lev4_lec4" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -328,19 +340,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="JAR Application.HelloWorld" />
-      <item index="1" class="java.lang.String" itemvalue="Application.task52_lev4_lec2" />
-      <item index="2" class="java.lang.String" itemvalue="Application.task53_lev4_lec2" />
-      <item index="3" class="java.lang.String" itemvalue="Application.task54_lev4_lec2" />
-      <item index="4" class="java.lang.String" itemvalue="Application.task55_lev4_lec4" />
-      <item index="5" class="java.lang.String" itemvalue="Application.task56_lev4_lec4" />
+      <item index="1" class="java.lang.String" itemvalue="Application.task58_lev4_lec4" />
+      <item index="2" class="java.lang.String" itemvalue="Application.task59_lev4_lec4" />
+      <item index="3" class="java.lang.String" itemvalue="Application.task60_lev4_lec4" />
+      <item index="4" class="java.lang.String" itemvalue="Application.task61_lev4_lec4" />
+      <item index="5" class="java.lang.String" itemvalue="Application.task62_lev4_lec4" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.task56_lev4_lec4" />
-        <item index="1" class="java.lang.String" itemvalue="Application.task55_lev4_lec4" />
-        <item index="2" class="java.lang.String" itemvalue="Application.task53_lev4_lec2" />
-        <item index="3" class="java.lang.String" itemvalue="Application.task54_lev4_lec2" />
-        <item index="4" class="java.lang.String" itemvalue="Application.task52_lev4_lec2" />
+        <item index="0" class="java.lang.String" itemvalue="Application.task62_lev4_lec4" />
+        <item index="1" class="java.lang.String" itemvalue="Application.task61_lev4_lec4" />
+        <item index="2" class="java.lang.String" itemvalue="Application.task60_lev4_lec4" />
+        <item index="3" class="java.lang.String" itemvalue="Application.task59_lev4_lec4" />
+        <item index="4" class="java.lang.String" itemvalue="Application.task58_lev4_lec4" />
       </list>
     </recent_temporary>
   </component>
@@ -358,7 +370,7 @@
       <option name="presentableId" value="Default" />
       <updated>1521460483186</updated>
       <workItem from="1521460490610" duration="9153000" />
-      <workItem from="1521532816995" duration="20666000" />
+      <workItem from="1521532816995" duration="24446000" />
     </task>
     <task id="LOCAL-00001" summary="From work">
       <created>1521464317868</created>
@@ -406,7 +418,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29819000" />
+    <option name="totallyTimeSpent" value="33599000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -424,7 +436,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25266525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25266525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -656,6 +668,54 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/level4/task57_lev4_lec4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/level4/task58_lev4_lec4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/level4/task59_lev4_lec4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/level4/task60_lev4_lec4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="66" lean-forward="true" selection-start-line="25" selection-start-column="66" selection-end-line="25" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/level4/task61_lev4_lec4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/level4/task62_lev4_lec4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
           <folding />
         </state>
       </provider>
