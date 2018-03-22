@@ -7,13 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec4f1fc6-9820-449b-9bcb-d4b2aff05b15" name="Default" comment="From work">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level4/task79_lev4_lec10.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level4/task80_lev4_lec10.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level4/task81_lev4_lec13.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level4/task82_lev4_lec13.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaRushTasks/level4/task78_lev4_lec10.class" afterPath="$PROJECT_DIR$/out/production/JavaRushTasks/level4/task78_lev4_lec10.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level4/task83_lev4_lec13.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/level4/task78_lev4_lec10.java" afterPath="$PROJECT_DIR$/src/level4/task78_lev4_lec10.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -94,6 +89,7 @@
         <option value="$PROJECT_DIR$/src/level4/task80_lev4_lec10.java" />
         <option value="$PROJECT_DIR$/src/level4/task81_lev4_lec13.java" />
         <option value="$PROJECT_DIR$/src/level4/task82_lev4_lec13.java" />
+        <option value="$PROJECT_DIR$/src/level4/task83_lev4_lec13.java" />
       </list>
     </option>
   </component>
@@ -103,7 +99,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -176,7 +172,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.task82_lev4_lec13">
+  <component name="RunManager" selected="Application.task83_lev4_lec13">
     <configuration name="HelloWorld" type="JarApplication" factoryName="JAR Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/JavaRushTasks_jar/JavaRushTasks.jar" />
@@ -287,25 +283,6 @@
       <module name="JavaRushTasks" />
       <envs />
     </configuration>
-    <configuration name="task79_lev4_lec10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="level4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="level4.task79_lev4_lec10" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaRushTasks" />
-      <envs />
-    </configuration>
     <configuration name="task80_lev4_lec10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -363,21 +340,40 @@
       <module name="JavaRushTasks" />
       <envs />
     </configuration>
+    <configuration name="task83_lev4_lec13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="level4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="level4.task83_lev4_lec13" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaRushTasks" />
+      <envs />
+    </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="JAR Application.HelloWorld" />
       <item index="1" class="java.lang.String" itemvalue="Application.task78_lev4_lec10" />
-      <item index="2" class="java.lang.String" itemvalue="Application.task79_lev4_lec10" />
-      <item index="3" class="java.lang.String" itemvalue="Application.task80_lev4_lec10" />
-      <item index="4" class="java.lang.String" itemvalue="Application.task81_lev4_lec13" />
-      <item index="5" class="java.lang.String" itemvalue="Application.task82_lev4_lec13" />
+      <item index="2" class="java.lang.String" itemvalue="Application.task80_lev4_lec10" />
+      <item index="3" class="java.lang.String" itemvalue="Application.task81_lev4_lec13" />
+      <item index="4" class="java.lang.String" itemvalue="Application.task82_lev4_lec13" />
+      <item index="5" class="java.lang.String" itemvalue="Application.task83_lev4_lec13" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.task82_lev4_lec13" />
-        <item index="1" class="java.lang.String" itemvalue="Application.task81_lev4_lec13" />
-        <item index="2" class="java.lang.String" itemvalue="Application.task80_lev4_lec10" />
-        <item index="3" class="java.lang.String" itemvalue="Application.task78_lev4_lec10" />
-        <item index="4" class="java.lang.String" itemvalue="Application.task79_lev4_lec10" />
+        <item index="0" class="java.lang.String" itemvalue="Application.task83_lev4_lec13" />
+        <item index="1" class="java.lang.String" itemvalue="Application.task82_lev4_lec13" />
+        <item index="2" class="java.lang.String" itemvalue="Application.task81_lev4_lec13" />
+        <item index="3" class="java.lang.String" itemvalue="Application.task80_lev4_lec10" />
+        <item index="4" class="java.lang.String" itemvalue="Application.task78_lev4_lec10" />
       </list>
     </recent_temporary>
   </component>
@@ -458,10 +454,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58270000" />
+    <option name="totallyTimeSpent" value="58764000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -534,13 +530,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/level3/task47_lev3_lec12.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="83" lean-forward="true" selection-start-line="7" selection-start-column="83" selection-end-line="7" selection-end-column="83" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/level3/task46_lev3_lec12.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -895,8 +884,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/level4/task82_lev4_lec13.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="16" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/level4/task83_lev4_lec13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="28" lean-forward="false" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
           <folding />
         </state>
       </provider>
