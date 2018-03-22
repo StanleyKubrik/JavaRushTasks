@@ -13,6 +13,9 @@ public class task78_lev4_lec10 {
             System.out.println(str);
             dig--;
         }
-        
+
+        System.out.println(str.toUpperCase());
+        str = new StringBuffer(str).reverse().toString();
+        System.out.println(str);
     }
 }
