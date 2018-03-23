@@ -7,22 +7,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec4f1fc6-9820-449b-9bcb-d4b2aff05b15" name="Default" comment="From work">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level5/Cat_lev5_lec05/task90/Cat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level5/Cat_lev5_lec05/task91_lev5_lec05.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level5/Cat_lev5_lec05/task92/Cat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level5/Cat_lev5_lec05/task96/Cat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level5/Dog_lev5_lec05/Dog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level5/Dog_lev5_lec05/task97/Dog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level5/Friend_lev5_lec07/task102_lev5_lec09/Friend.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level5/Person_lev5_lec05/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level5/Person_lev5_lec05/task100_lev5_lec07/task100_lev5_lec07.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level5/Person_lev5_lec05/task101_lev5_lec07/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level5/tak94_lev5_lec05.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level5/task98_lev5_lec07/Circle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level5/task99_lev5_lec07/Rectangle.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaRushTasks/level4/task89_lev4_lec16.class" afterPath="$PROJECT_DIR$/out/production/JavaRushTasks/level4/task89_lev4_lec16.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level5/Cat_lev5_lec05/task103/Cat.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level5/Circle_lev5_lec07/task104/Circle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level5/Dog_lev5_lec05/task104/Dog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level5/Rectangle_lev5_lec07/task105/Rectangle.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaRushTasks/level5/Friend_lev5_lec07/task102_lev5_lec09/Friend.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaRushTasks/level5/Friend_lev5_lec07/task95_lev5_lec07/Friend.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaRushTasks/level5/Person_lev5_lec05/task100_lev5_lec07/task100_lev5_lec07$Person.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaRushTasks/level5/Person_lev5_lec05/task100_lev5_lec07/task100_lev5_lec07.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaRushTasks/level5/Person_lev5_lec05/task101_lev5_lec07/Person.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaRushTasks/level5/task98_lev5_lec07/Circle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaRushTasks/level5/task99_lev5_lec07/Rectangle.class" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/level5/Friend_lev5_lec07/task102_lev5_lec09/Friend.java" afterPath="$PROJECT_DIR$/src/level5/Friend_lev5_lec07/task102/Friend.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/level5/Friend_lev5_lec07/task95_lev5_lec07/Friend.java" afterPath="$PROJECT_DIR$/src/level5/Friend_lev5_lec07/task95/Friend.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/level5/Person_lev5_lec05/task100_lev5_lec07/task100_lev5_lec07.java" afterPath="$PROJECT_DIR$/src/level5/Person_lev5_lec05/task100/task100_lev5_lec07.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/level5/Person_lev5_lec05/task101_lev5_lec07/Person.java" afterPath="$PROJECT_DIR$/src/level5/Person_lev5_lec05/task101/Person.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/level5/task98_lev5_lec07/Circle.java" afterPath="$PROJECT_DIR$/src/level5/Circle_lev5_lec07/task98/Circle.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/level5/task99_lev5_lec07/Rectangle.java" afterPath="$PROJECT_DIR$/src/level5/Rectangle_lev5_lec07/task99/Rectangle.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaRushTasks.iml" afterPath="$PROJECT_DIR$/JavaRushTasks.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,20 +35,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Friend.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/level5/Friend_lev5_lec07/task95_lev5_lec07/Friend.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-              <folding>
-                <element signature="e#0#1448#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -71,15 +60,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/level4/task51_lev4_lec2.java" />
-        <option value="$PROJECT_DIR$/src/level4/task52_lev4_lec2.java" />
-        <option value="$PROJECT_DIR$/src/level4/task54_lev4_lec2.java" />
-        <option value="$PROJECT_DIR$/src/level4/task53_lev4_lec2.java" />
-        <option value="$PROJECT_DIR$/src/level4/task55_lev4_lec4.java" />
-        <option value="$PROJECT_DIR$/src/level4/task56_lev4_lec4.java" />
-        <option value="$PROJECT_DIR$/src/level4/task57_lev4_lec4.java" />
-        <option value="$PROJECT_DIR$/src/level4/task58_lev4_lec4.java" />
-        <option value="$PROJECT_DIR$/src/level4/task59_lev4_lec4.java" />
         <option value="$PROJECT_DIR$/src/level4/task60_lev4_lec4.java" />
         <option value="$PROJECT_DIR$/src/level4/task61_lev4_lec4.java" />
         <option value="$PROJECT_DIR$/src/level4/task62_lev4_lec4.java" />
@@ -122,6 +102,15 @@
         <option value="$PROJECT_DIR$/src/level5/task102_lev5_lec09/Friend.java" />
         <option value="$PROJECT_DIR$/src/level5/task95_lev5_lec07/task95_lev5_lec07/Friend.java" />
         <option value="$PROJECT_DIR$/src/level5/Friend_lev5_lec07/task95_lev5_lec07/Friend.java" />
+        <option value="$PROJECT_DIR$/src/level5/task98_lev5_lec07/task98_lev5_lec07/Circle.java" />
+        <option value="$PROJECT_DIR$/src/level5/Circle_lev5_lec07/task98_lev5_lec07/Circle.java" />
+        <option value="$PROJECT_DIR$/src/level5/task99_lev5_lec07/task99_lev5_lec07/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/level5/Rectangle_lev5_lec07/task99_lev5_lec07/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/level5/Cat_lev5_lec05/task103/Cat.java" />
+        <option value="$PROJECT_DIR$/src/level5/Dog_lev5_lec05/task104/Dog.java" />
+        <option value="$PROJECT_DIR$/src/level5/Circle_lev5_lec07/task104/Circle.java" />
+        <option value="$PROJECT_DIR$/src/level5/Rectangle_lev5_lec07/task99/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/level5/Rectangle_lev5_lec07/task105/Rectangle.java" />
       </list>
     </option>
   </component>
@@ -175,21 +164,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="level5" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="JavaRushTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaRushTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="level5" type="462c0819:PsiDirectoryNode" />
-              <item name="Friend_lev5_lec07" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaRushTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaRushTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="level5" type="462c0819:PsiDirectoryNode" />
-              <item name="Friend_lev5_lec07" type="462c0819:PsiDirectoryNode" />
-              <item name="task95_lev5_lec07" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -220,15 +194,34 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Friend">
-    <configuration name="Cat (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Circle">
+    <configuration name="Cat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="level5.Cat_lev5_lec05.task92.*" />
+          <option name="PATTERN" value="level5.Cat_lev5_lec05.task103.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="level5.Cat_lev5_lec05.task92.Cat" />
+      <option name="MAIN_CLASS_NAME" value="level5.Cat_lev5_lec05.task103.Cat" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaRushTasks" />
+      <envs />
+    </configuration>
+    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="level5.Circle_lev5_lec07.task104.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="level5.Circle_lev5_lec07.task104.Circle" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -243,11 +236,11 @@
     <configuration name="Friend" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="level5.Friend_lev5_lec07.task95_lev5_lec07.*" />
+          <option name="PATTERN" value="level5.Friend_lev5_lec07.task95.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="level5.Friend_lev5_lec07.task95_lev5_lec07.Friend" />
+      <option name="MAIN_CLASS_NAME" value="level5.Friend_lev5_lec07.task95.Friend" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -353,7 +346,7 @@
     <configuration name="tak94_lev5_lec05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="level5.task99_lev5_lec07.*" />
+          <option name="PATTERN" value="level5.Rectangle_lev5_lec07.task99.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -372,30 +365,11 @@
     <configuration name="task100_lev5_lec07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="level5.Person_lev5_lec05.task100_lev5_lec07.*" />
+          <option name="PATTERN" value="level5.Person_lev5_lec05.task100.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="level5.Person_lev5_lec05.task100_lev5_lec07.task100_lev5_lec07" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaRushTasks" />
-      <envs />
-    </configuration>
-    <configuration name="task91_lev5_lec05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="level5.Cat_lev5_lec05.task92.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="level5.Cat_lev5_lec05.task91_lev5_lec05" />
+      <option name="MAIN_CLASS_NAME" value="level5.Person_lev5_lec05.task100.task100_lev5_lec07" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -409,19 +383,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="JAR Application.HelloWorld" />
-      <item index="1" class="java.lang.String" itemvalue="Application.task91_lev5_lec05" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Cat (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.tak94_lev5_lec05" />
-      <item index="4" class="java.lang.String" itemvalue="Application.task100_lev5_lec07" />
-      <item index="5" class="java.lang.String" itemvalue="Application.Friend" />
+      <item index="1" class="java.lang.String" itemvalue="Application.tak94_lev5_lec05" />
+      <item index="2" class="java.lang.String" itemvalue="Application.task100_lev5_lec07" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Friend" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Cat" />
+      <item index="5" class="java.lang.String" itemvalue="Application.Circle" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Friend" />
-        <item index="1" class="java.lang.String" itemvalue="Application.task100_lev5_lec07" />
-        <item index="2" class="java.lang.String" itemvalue="Application.tak94_lev5_lec05" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Cat (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Application.task91_lev5_lec05" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Circle" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Cat" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Friend" />
+        <item index="3" class="java.lang.String" itemvalue="Application.task100_lev5_lec07" />
+        <item index="4" class="java.lang.String" itemvalue="Application.tak94_lev5_lec05" />
       </list>
     </recent_temporary>
   </component>
@@ -505,11 +479,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61071000" />
+    <option name="totallyTimeSpent" value="63518000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -524,7 +497,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25266525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25266525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -583,28 +556,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/level3/task38_lev3_lec6.java" />
-    <entry file="file://$PROJECT_DIR$/src/level3/task40_lev3_lec8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaRushPlugin.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3150">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/level3/task39_lev3_lec8.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -838,26 +789,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/level5/Cat_lev5_lec05/task91_lev5_lec05.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="48" lean-forward="false" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/level5/Cat_lev5_lec05/task90/Cat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/level5/tak94_lev5_lec05.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="80" lean-forward="false" selection-start-line="34" selection-start-column="80" selection-end-line="34" selection-end-column="80" />
           <folding />
         </state>
       </provider>
@@ -900,8 +835,75 @@
           <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
           <folding>
             <element signature="e#0#1316#0" expanded="true" />
-            <element signature="e#951#952#0" expanded="true" />
-            <element signature="e#983#984#0" expanded="true" />
+            <element signature="e#951#952#0" expanded="false" />
+            <element signature="e#983#984#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/level5/Person_lev5_lec05/task101/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="49" lean-forward="false" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/level5/Person_lev5_lec05/task100/task100_lev5_lec07.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="99" lean-forward="false" selection-start-line="14" selection-start-column="99" selection-end-line="14" selection-end-column="99" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/level5/Friend_lev5_lec07/task102/Friend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="142" lean-forward="false" selection-start-line="14" selection-start-column="142" selection-end-line="14" selection-end-column="142" />
+          <folding>
+            <element signature="e#887#888#0" expanded="false" />
+            <element signature="e#919#920#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/level5/Friend_lev5_lec07/task95/Friend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="36" lean-forward="false" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#1437#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/level5/Circle_lev5_lec07/task98/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#1635#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/level5/tak94_lev5_lec05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="40" column="13" lean-forward="false" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#1337#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/level5/Cat_lev5_lec05/task103/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="68" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#2468#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -916,59 +918,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/level5/task98_lev5_lec07/Circle.java">
+    <entry file="file://$PROJECT_DIR$/src/level5/Cat_lev5_lec05/task91_lev5_lec05.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="43" selection-end-column="5" />
+        <state relative-caret-position="221">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
           <folding>
-            <element signature="e#0#1628#0" expanded="true" />
+            <element signature="e#0#1126#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/level5/task99_lev5_lec07/Rectangle.java">
+    <entry file="file://$PROJECT_DIR$/src/level5/Dog_lev5_lec05/task104/Dog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+        <state relative-caret-position="323">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="36" selection-end-column="5" />
           <folding>
-            <element signature="e#0#1684#0" expanded="true" />
+            <element signature="e#0#1216#0" expanded="true" />
+            <element signature="e#875#876#0" expanded="true" />
+            <element signature="e#907#908#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/level5/Person_lev5_lec05/task101_lev5_lec07/Person.java">
+    <entry file="file://$PROJECT_DIR$/src/level5/Circle_lev5_lec07/task104/Circle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="49" lean-forward="false" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+        <state relative-caret-position="204">
+          <caret line="12" column="163" lean-forward="false" selection-start-line="12" selection-start-column="163" selection-end-line="12" selection-end-column="163" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/level5/Person_lev5_lec05/task100_lev5_lec07/task100_lev5_lec07.java">
+    <entry file="file://$PROJECT_DIR$/src/level5/Rectangle_lev5_lec07/task99/Rectangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="99" lean-forward="false" selection-start-line="14" selection-start-column="99" selection-end-line="14" selection-end-column="99" />
+        <state relative-caret-position="442">
+          <caret line="45" column="27" lean-forward="false" selection-start-line="45" selection-start-column="27" selection-end-line="45" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/level5/Friend_lev5_lec07/task102_lev5_lec09/Friend.java">
+    <entry file="file://$PROJECT_DIR$/src/level5/Rectangle_lev5_lec07/task105/Rectangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="142" lean-forward="false" selection-start-line="14" selection-start-column="142" selection-end-line="14" selection-end-column="142" />
+        <state relative-caret-position="407">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding>
-            <element signature="e#898#899#0" expanded="true" />
-            <element signature="e#930#931#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/level5/Friend_lev5_lec07/task95_lev5_lec07/Friend.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#1448#0" expanded="true" />
+            <element signature="e#0#1649#0" expanded="true" />
           </folding>
         </state>
       </provider>
