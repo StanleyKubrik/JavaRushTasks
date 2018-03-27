@@ -30,7 +30,7 @@ public class task163_lev7_lec12 {
         while (time >= 0){
             System.out.println(time);
             time--;
-            Thread.sleep(1000);
+            Thread.sleep(100);
         }
 
         System.out.println("Бум!");
