@@ -499,3 +499,51 @@ java.lang.NullPointerException
 2018-03-27 09:25:52 WARN  JavaRushUtil.isProjectStructureCorrect(318) - Структура проекта невалидная.
 2018-03-27 17:56:57 INFO  JavaRushTasksProjectComponent.projectClosing(162) - ---------- Project JavaRushTasks closed ----------
 
+2018-03-28 09:03:01 INFO  JavaRushTasksProjectComponent.projectOpened(68) - ---------- Project JavaRushTasks opened ----------
+
+2018-03-28 09:03:01 INFO  ApacheHttpClient.createAsyncHttpClient(126) - Выбрано 1 прокси.
+2018-03-28 09:03:01 INFO  ApacheHttpClient.<init>(87) - ApacheHttpClient проинстанциирован успешно.
+2018-03-28 09:03:04 INFO  ApacheHttpClient.testConnection(184) - responseCode = 200
+2018-03-28 09:03:04 INFO  ApacheHttpClient.testConnection(192) - result = true
+2018-03-28 09:03:04 INFO  ApacheHttpClient.login(216) - Ожидание ответа сервера.
+2018-03-28 09:03:05 INFO  ApacheHttpClient.login(216) - Ожидание ответа сервера.
+2018-03-28 09:03:05 INFO  ApacheHttpClient.login(216) - Ожидание ответа сервера.
+2018-03-28 09:03:05 INFO  ApacheHttpClient.login(220) - responseCode = 200
+2018-03-28 09:03:05 INFO  ApacheHttpClient.login(251) - JSESSIONID=5DF10DC355EDFB9E87E2714BB2084230
+2018-03-28 09:03:05 INFO  ApacheHttpClient.refreshUserInfo(279) - responseCode = 200
+2018-03-28 09:03:05 INFO  ApacheHttpClient.refreshUserInfo(285) - Информация о пользователе получена.
+2018-03-28 09:03:05 INFO  ApacheHttpClient.startGA(31) - GAService запущен.
+2018-03-28 09:03:05 WARN  JavaRushUtil.isProjectStructureCorrect(318) - Структура проекта невалидная.
+2018-03-28 13:56:03 ERROR SearchEverywhereAction.error(134) - Argument for @NotNull parameter 'model' of com/intellij/ide/util/gotoByName/ChooseByNamePopup.createPopup must not be null
+java.lang.IllegalArgumentException: Argument for @NotNull parameter 'model' of com/intellij/ide/util/gotoByName/ChooseByNamePopup.createPopup must not be null
+	at com.intellij.ide.util.gotoByName.ChooseByNamePopup.createPopup(ChooseByNamePopup.java)
+	at com.intellij.ide.util.gotoByName.ChooseByNamePopup.createPopup(ChooseByNamePopup.java:296)
+	at com.intellij.ide.actions.SearchEverywhereAction$CalcThread.a(SearchEverywhereAction.java:1960)
+	at com.intellij.ide.actions.SearchEverywhereAction$CalcThread.run(SearchEverywhereAction.java:1374)
+	at com.intellij.openapi.application.impl.ApplicationImpl$1.run(ApplicationImpl.java:330)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-03-28 13:56:03 ERROR SearchEverywhereAction.b(142) - IntelliJ IDEA 2017.2.7  Build #IU-172.4574.19
+2018-03-28 13:56:03 ERROR SearchEverywhereAction.b(149) - JDK: 1.8.0_152-release
+2018-03-28 13:56:03 ERROR SearchEverywhereAction.b(150) - VM: OpenJDK 64-Bit Server VM
+2018-03-28 13:56:03 ERROR SearchEverywhereAction.b(151) - Vendor: JetBrains s.r.o
+2018-03-28 13:56:03 ERROR SearchEverywhereAction.b(152) - OS: Windows 7
+2018-03-28 16:32:26 INFO  JavaRushTasksProjectComponent.projectClosing(162) - ---------- Project JavaRushTasks closed ----------
+
+2018-03-28 16:33:51 INFO  JavaRushTasksProjectComponent.projectOpened(68) - ---------- Project JavaRushTasks opened ----------
+
+2018-03-28 16:33:51 INFO  ApacheHttpClient.createAsyncHttpClient(126) - Выбрано 1 прокси.
+2018-03-28 16:33:52 INFO  ApacheHttpClient.<init>(87) - ApacheHttpClient проинстанциирован успешно.
+2018-03-28 16:33:53 INFO  ApacheHttpClient.testConnection(184) - responseCode = 200
+2018-03-28 16:33:53 INFO  ApacheHttpClient.testConnection(192) - result = true
+2018-03-28 16:33:54 INFO  ApacheHttpClient.login(216) - Ожидание ответа сервера.
+2018-03-28 16:33:54 INFO  ApacheHttpClient.login(216) - Ожидание ответа сервера.
+2018-03-28 16:33:54 INFO  ApacheHttpClient.login(220) - responseCode = 200
+2018-03-28 16:33:54 INFO  ApacheHttpClient.login(251) - JSESSIONID=F48E30F02859B5566547ADA29DED7786
+2018-03-28 16:33:54 INFO  ApacheHttpClient.refreshUserInfo(279) - responseCode = 200
+2018-03-28 16:33:54 INFO  ApacheHttpClient.refreshUserInfo(285) - Информация о пользователе получена.
+2018-03-28 16:33:54 INFO  ApacheHttpClient.startGA(31) - GAService запущен.
+2018-03-28 16:33:54 WARN  JavaRushUtil.isProjectStructureCorrect(318) - Структура проекта невалидная.
