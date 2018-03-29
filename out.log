@@ -547,3 +547,37 @@ java.lang.IllegalArgumentException: Argument for @NotNull parameter 'model' of c
 2018-03-28 16:33:54 INFO  ApacheHttpClient.refreshUserInfo(285) - Информация о пользователе получена.
 2018-03-28 16:33:54 INFO  ApacheHttpClient.startGA(31) - GAService запущен.
 2018-03-28 16:33:54 WARN  JavaRushUtil.isProjectStructureCorrect(318) - Структура проекта невалидная.
+2018-03-29 12:45:22 ERROR TimedOutCallback.error(134) - Typeahead request blocked
+com.intellij.openapi.wm.impl.FocusManagerImpl$3: Time: 30003; cause: AbstractPopup
+	at com.intellij.openapi.wm.impl.FocusManagerImpl.typeAheadUntil(FocusManagerImpl.java:756)
+	at com.intellij.openapi.wm.impl.IdeFocusManagerImpl.typeAheadUntil(IdeFocusManagerImpl.java:92)
+	at com.intellij.ui.popup.AbstractPopup.f(AbstractPopup.java:1062)
+	at com.intellij.ui.popup.AbstractPopup.show(AbstractPopup.java:1044)
+	at com.intellij.ui.popup.WizardPopup.show(WizardPopup.java:208)
+	at com.intellij.ui.popup.AbstractPopup.showInCenterOf(AbstractPopup.java:390)
+	at com.intellij.ui.popup.AbstractPopup.showCenteredInCurrentWindow(AbstractPopup.java:458)
+	at com.intellij.ide.actions.QuickSwitchSchemeAction.showPopup(QuickSwitchSchemeAction.java:75)
+	at com.intellij.ide.actions.QuickSwitchSchemeAction.showPopup(QuickSwitchSchemeAction.java:69)
+	at com.intellij.ide.actions.QuickSwitchSchemeAction.actionPerformed(QuickSwitchSchemeAction.java:55)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil$1.run(ActionUtil.java:216)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.performActionDumbAware(ActionUtil.java:233)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher$1.performAction(IdeKeyEventDispatcher.java:576)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher.a(IdeKeyEventDispatcher.java:625)
+	at com.intellij.openapi.application.TransactionGuardImpl.performUserActivity(TransactionGuardImpl.java:193)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher.processAction(IdeKeyEventDispatcher.java:624)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher.d(IdeKeyEventDispatcher.java:479)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher.dispatchKeyEvent(IdeKeyEventDispatcher.java:213)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:621)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:365)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-03-29 12:45:22 ERROR TimedOutCallback.b(142) - IntelliJ IDEA 2017.2.7  Build #IU-172.4574.19
+2018-03-29 12:45:22 ERROR TimedOutCallback.b(149) - JDK: 1.8.0_152-release
+2018-03-29 12:45:22 ERROR TimedOutCallback.b(150) - VM: OpenJDK 64-Bit Server VM
+2018-03-29 12:45:22 ERROR TimedOutCallback.b(151) - Vendor: JetBrains s.r.o
+2018-03-29 12:45:22 ERROR TimedOutCallback.b(152) - OS: Windows 7
+2018-03-29 12:45:22 ERROR TimedOutCallback.b(158) - Last Action: Vcs.QuickListPopupAction
