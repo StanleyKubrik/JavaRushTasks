@@ -581,3 +581,5 @@ com.intellij.openapi.wm.impl.FocusManagerImpl$3: Time: 30003; cause: AbstractPop
 2018-03-29 12:45:22 ERROR TimedOutCallback.b(151) - Vendor: JetBrains s.r.o
 2018-03-29 12:45:22 ERROR TimedOutCallback.b(152) - OS: Windows 7
 2018-03-29 12:45:22 ERROR TimedOutCallback.b(158) - Last Action: Vcs.QuickListPopupAction
+2018-03-29 17:50:24 INFO  JavaRushTasksProjectComponent.projectClosing(162) - ---------- Project JavaRushTasks closed ----------
+
