@@ -619,3 +619,20 @@ com.intellij.openapi.wm.impl.FocusManagerImpl$3: Time: 30003; cause: AbstractPop
 2018-04-02 08:39:37 INFO  ApacheHttpClient.refreshUserInfo(285) - Информация о пользователе получена.
 2018-04-02 08:39:37 INFO  ApacheHttpClient.startGA(31) - GAService запущен.
 2018-04-02 08:39:37 WARN  JavaRushUtil.isProjectStructureCorrect(318) - Структура проекта невалидная.
+2018-04-03 12:32:01 ERROR SearchEverywhereAction.error(134) - Argument for @NotNull parameter 'model' of com/intellij/ide/util/gotoByName/ChooseByNamePopup.createPopup must not be null
+java.lang.IllegalArgumentException: Argument for @NotNull parameter 'model' of com/intellij/ide/util/gotoByName/ChooseByNamePopup.createPopup must not be null
+	at com.intellij.ide.util.gotoByName.ChooseByNamePopup.createPopup(ChooseByNamePopup.java)
+	at com.intellij.ide.util.gotoByName.ChooseByNamePopup.createPopup(ChooseByNamePopup.java:296)
+	at com.intellij.ide.actions.SearchEverywhereAction$CalcThread.a(SearchEverywhereAction.java:1960)
+	at com.intellij.ide.actions.SearchEverywhereAction$CalcThread.run(SearchEverywhereAction.java:1374)
+	at com.intellij.openapi.application.impl.ApplicationImpl$1.run(ApplicationImpl.java:330)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-04-03 12:32:01 ERROR SearchEverywhereAction.b(142) - IntelliJ IDEA 2017.2.7  Build #IU-172.4574.19
+2018-04-03 12:32:01 ERROR SearchEverywhereAction.b(149) - JDK: 1.8.0_152-release
+2018-04-03 12:32:01 ERROR SearchEverywhereAction.b(150) - VM: OpenJDK 64-Bit Server VM
+2018-04-03 12:32:01 ERROR SearchEverywhereAction.b(151) - Vendor: JetBrains s.r.o
+2018-04-03 12:32:01 ERROR SearchEverywhereAction.b(152) - OS: Windows 7
