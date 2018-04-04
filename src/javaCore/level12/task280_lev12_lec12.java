@@ -13,7 +13,7 @@
  */
 package javaCore.level12;
 
-public class task280_lev12_lec06 {
+public class task280_lev12_lec12 {
     public static void main(String[] args) {
         Pet pet = new Cat();
 
