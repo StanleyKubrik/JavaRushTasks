@@ -1,13 +1,26 @@
-package javaCore.level13;
+/*
+The weather is fine
+1. В классе Today реализовать интерфейс Weather.
+2. Подумай, как связан параметр type с методом getWeatherType().
+3. Интерфейсы Weather и WeatherType уже реализованы в отдельных файлах.
 
-public class task309_lev13_lec11 {
+
+Требования:
+1. Интерфейс Weather должен быть реализован в классе Today.
+2. В классе Today должен быть реализован метод getWeatherType объявленный в интерфейсе Weather.
+3. Тип возвращаемого значения метода getWeatherType должен быть String.
+4. Метод getWeatherType должен возвращать значение переменной type.
+ */
+package javaCore.level13.task309_lev13_lec11;
+
+public class task309 {
     public static void main(String[] args) {
         System.out.println(new Today(WeatherType.CLOUDY));
         System.out.println(new Today(WeatherType.FOGGY));
         System.out.println(new Today(WeatherType.FROZEN));
     }
 
-    static class Today {
+    static class Today implements Weather {
         private String type;
 
         Today(String type) {
@@ -19,10 +32,9 @@ public class task309_lev13_lec11 {
             return String.format("%s for today", this.getWeatherType());
         }
 
-        interface WeatherType{
-            
+        @Override
+        public String getWeatherType() {
+            return type;
         }
     }
-
-
 }

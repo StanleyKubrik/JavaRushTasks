@@ -16,7 +16,7 @@
  */
 package javaCore.level13;
 
-public class task301_lev13_lec03 {
+public class task301_lev13_lec02 {
     public static void main(String[] args) {
     }
 

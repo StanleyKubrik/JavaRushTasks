@@ -12,7 +12,7 @@
  */
 package javaCore.level13;
 
-public class task297_lev13_lec03 {
+public class task297_lev13_lec02 {
     public static void main(String[] args) throws Exception {
 
         System.out.println(Dream.HOBBIE.toString());

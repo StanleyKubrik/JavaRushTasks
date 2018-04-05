@@ -10,9 +10,9 @@
 4. Метод isAlcoholic должен возвращать true, т.к. пиво содержит алкоголь.
 5. Программа должна выводить на экран тип напитка в зависимости от того что возвращает метод isAlcoholic.
  */
-package javaCore.level12;
+package javaCore.level13;
 
-public class task294_lev12_lec12 {
+public class task294_lev13_lec02 {
     public static void main(String[] args) throws Exception {
         Drink beer = new AlcoholicBeer();
         System.out.println(beer.toString());

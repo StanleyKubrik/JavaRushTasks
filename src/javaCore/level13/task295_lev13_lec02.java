@@ -9,9 +9,9 @@
 3. В классе Beer должны быть реализованы все методы интерфейса Drink.
 4. В классе Cola должны быть реализованы все методы интерфейса Drink.
  */
-package javaCore.level12;
+package javaCore.level13;
 
-public class task295_lev12_lec12 {
+public class task295_lev13_lec02 {
     public static void main(String[] args) throws Exception {
         print(new Beer());
         print(new Cola());

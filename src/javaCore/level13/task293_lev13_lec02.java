@@ -13,9 +13,9 @@
 4. В классе Beer должны быть реализованы все методы интерфейса Drink.
 5. Метод isReadyToGoHome должен возвращать значение переменной READY_TO_GO_HOME.
  */
-package javaCore.level12;
+package javaCore.level13;
 
-public class task293_lev12_lec12 {
+public class task293_lev13_lec02 {
     public static void main(String[] args) throws Exception {
     }
 
