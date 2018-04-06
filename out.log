@@ -636,3 +636,5 @@ java.lang.IllegalArgumentException: Argument for @NotNull parameter 'model' of c
 2018-04-03 12:32:01 ERROR SearchEverywhereAction.b(150) - VM: OpenJDK 64-Bit Server VM
 2018-04-03 12:32:01 ERROR SearchEverywhereAction.b(151) - Vendor: JetBrains s.r.o
 2018-04-03 12:32:01 ERROR SearchEverywhereAction.b(152) - OS: Windows 7
+2018-04-06 09:06:14 INFO  JavaRushTasksProjectComponent.projectClosing(162) - ---------- Project JavaRushTasks closed ----------
+
