@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*
 Neo
 1. Реализовать интерфейс DBObject в классе User.
@@ -16,7 +17,7 @@ Neo
  */
 package javaCore.level13;
 
-public class task311_lev13_lec11 {
+public class task319_lev13_lec11 {
     public static void main(String[] args) throws Exception {
         System.out.println(Matrix.NEO);
     }
@@ -43,6 +44,30 @@ public class task311_lev13_lec11 {
             this.id = id;
             this.name = name;
             return this;
+=======
+package javaCore.level13;
+
+import java.io.*;
+
+public class task311_lev13_lec11 {
+    public static void main(String[] args) throws Exception {
+        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+        String fileName = reader.readLine();
+        BufferedWriter writer = new BufferedWriter(new FileWriter(fileName));
+
+        try {
+            String s;
+            while (true){
+                s = reader.readLine();
+                writer.write(s);
+                if(s.equals("exit")){
+                    writer.write(s);
+                    break;
+                }
+            }
+        } catch (IOException e) {
+
+>>>>>>> fd62360fcf213e6e4e90c2d3a8c852660e2781cd
         }
     }
 }
