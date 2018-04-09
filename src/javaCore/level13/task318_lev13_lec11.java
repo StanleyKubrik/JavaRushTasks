@@ -34,7 +34,7 @@ import java.util.*;
 public class task318_lev13_lec11 {
     public static void main(String[] args) throws Exception {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-<<<<<<< HEAD
+
         String name = reader.readLine();
         ArrayList<String> arrayList = new ArrayList<>();
 
@@ -52,7 +52,7 @@ public class task318_lev13_lec11 {
             writer.newLine();
         }
         writer.close();
-=======
+
         InputStream in = new FileInputStream(reader.readLine());
 
         try {
@@ -68,6 +68,6 @@ public class task318_lev13_lec11 {
             in.close();
             reader.close();
         }
->>>>>>> fd62360fcf213e6e4e90c2d3a8c852660e2781cd
+
     }
 }
