@@ -653,3 +653,11 @@ java.lang.IllegalArgumentException: Argument for @NotNull parameter 'model' of c
 2018-04-06 09:08:49 INFO  ApacheHttpClient.refreshUserInfo(285) - Информация о пользователе получена.
 2018-04-06 09:08:49 INFO  ApacheHttpClient.startGA(31) - GAService запущен.
 2018-04-06 09:08:49 WARN  JavaRushUtil.isProjectStructureCorrect(318) - Структура проекта невалидная.
+2018-04-10 09:01:04 INFO  JavaRushTasksProjectComponent.projectClosing(162) - ---------- Project JavaRushTasks closed ----------
+
+2018-04-10 09:01:06 INFO  JavaRushTasksProjectComponent.projectOpened(68) - ---------- Project JavaRushTasks opened ----------
+
+2018-04-10 09:01:06 INFO  ApacheHttpClient.refreshUserInfo(279) - responseCode = 200
+2018-04-10 09:01:06 INFO  ApacheHttpClient.refreshUserInfo(285) - Информация о пользователе получена.
+2018-04-10 09:01:06 INFO  ApacheHttpClient.startGA(31) - GAService запущен.
+2018-04-10 09:01:06 WARN  JavaRushUtil.isProjectStructureCorrect(318) - Структура проекта невалидная.
