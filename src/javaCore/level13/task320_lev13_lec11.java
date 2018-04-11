@@ -31,7 +31,7 @@ package javaCore.level13;
 import java.io.*;
 import java.util.*;
 
-public class task318_lev13_lec11 {
+public class task320_lev13_lec11 {
     public static void main(String[] args) throws Exception {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 

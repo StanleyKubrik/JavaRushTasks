@@ -16,7 +16,7 @@ Neo
  */
 package javaCore.level13;
 
-public class task319_lev13_lec11 {
+public class task321_lev13_lec11 {
     public static void main(String[] args) throws Exception {
         System.out.println(Matrix.NEO);
     }
