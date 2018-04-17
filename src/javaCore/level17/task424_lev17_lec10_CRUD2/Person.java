@@ -1,7 +1,5 @@
 package javaCore.level17.task424_lev17_lec10_CRUD2;
 
-import javaCore.level17.task423_lev17_lec10_CRUD.Sex;
-
 import java.util.Date;
 
 public class Person {
