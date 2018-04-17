@@ -7,23 +7,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec4f1fc6-9820-449b-9bcb-d4b2aff05b15" name="Default" comment="From work">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaCore/level17/task411_lev17_lec06.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaCore/level17/task412_lev17_lec06.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaCore/level17/task413_lev17_lec10/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaCore/level17/task414_lev17_lec10/Beach.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaCore/level17/task415_lev17_lec10/Drug.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaCore/level17/task415_lev17_lec10/DrugsController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaCore/level17/task415_lev17_lec10/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaCore/level17/task416_lev17_lec10/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaCore/level17/task417_lev17_lec10/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaCore/level17/task418_lev17_lec10.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaCore/level17/task419_lev17_lec10/ApplicationContext.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaCore/level17/task419_lev17_lec10/Bean.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaCore/level17/task420_lev17_lec10/BankAccount.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaCore/level17/task420_lev17_lec10/Bankomat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaCore/level17/task420_lev17_lec10/NotEnoughMoneyException.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaRushTasks/javaCore/level17/task409_lev17_lec04/Solution.class" afterPath="$PROJECT_DIR$/out/production/JavaRushTasks/javaCore/level17/task409_lev17_lec04/Solution.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaCore/level17/task422_lev17_lec10.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaCore/level17/task423_lev17_lec10_CRUD/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaCore/level17/task423_lev17_lec10_CRUD/Sex.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaCore/level17/task423_lev17_lec10_CRUD/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaCore/level17/task424_lev17_lec10_CRUD2/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaCore/level17/task424_lev17_lec10_CRUD2/Sex.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaCore/level17/task424_lev17_lec10_CRUD2/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaCore/level17/wtask421_lev17_lec10/CorruptedDataException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaCore/level17/wtask421_lev17_lec10/Solution.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaRushTasks/javaCore/level17/task420_lev17_lec10/BankAccount.class" afterPath="$PROJECT_DIR$/out/production/JavaRushTasks/javaCore/level17/task420_lev17_lec10/BankAccount.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.txt" afterPath="$PROJECT_DIR$/test.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,29 +44,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Bankomat.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javaCore/level17/task420_lev17_lec10/Bankomat.java">
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/javaCore/level17/task424_lev17_lec10_CRUD2/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" column="6" lean-forward="false" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+            <state relative-caret-position="731">
+              <caret line="43" column="28" lean-forward="false" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
               <folding>
-                <element signature="e#625#975#0" expanded="true" />
-                <element signature="e#974#975#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BankAccount.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/javaCore/level17/task420_lev17_lec10/BankAccount.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-              <folding>
-                <element signature="e#200#201#0" expanded="true" />
-                <element signature="e#244#245#0" expanded="true" />
-                <element signature="e#960#961#0" expanded="true" />
-                <element signature="e#1006#1007#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#222#230#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -83,6 +63,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Singleton" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -102,12 +83,16 @@
       <find>@notor</find>
       <find>@Notoriginal.</find>
       <find>T</find>
+      <find>filere</find>
+      <find>while (re</find>
+      <find>0</find>
     </findStrings>
     <replaceStrings>
       <replace>BubblyWine</replace>
       <replace>public synchronized</replace>
       <replace>original.</replace>
       <replace>Long</replace>
+      <replace>i</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -121,15 +106,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/javaCore/level15/task358_lev15_lec12.java" />
-        <option value="$PROJECT_DIR$/src/javaCore/level16/NOtask397_lev16_lec13.java" />
-        <option value="$PROJECT_DIR$/src/javaCore/level16/task397_lev16_lec13_game.java" />
-        <option value="$PROJECT_DIR$/src/javaCore/level16/task400_lev16_lec13.java" />
-        <option value="$PROJECT_DIR$/src/javaCore/level16/task401_lev16_lec13/ImageReader.java" />
-        <option value="$PROJECT_DIR$/src/javaCore/level16/task401_lev16_lec13/ImageTypes.java" />
-        <option value="$PROJECT_DIR$/src/javaCore/level16/task401_lev16_lec13/common/JpgReader.java" />
-        <option value="$PROJECT_DIR$/src/javaCore/level16/task401_lev16_lec13/common/BmpReader.java" />
-        <option value="$PROJECT_DIR$/src/javaCore/level16/task401_lev16_lec13/common/PngReader.java" />
         <option value="$PROJECT_DIR$/src/javaCore/level16/task401_lev16_lec13/common/ImageTypes.java" />
         <option value="$PROJECT_DIR$/src/javaCore/level16/task401_lev16_lec13/ImageReaderFactory.java" />
         <option value="$PROJECT_DIR$/src/javaCore/level16/task401_lev16_lec13/Solution.java" />
@@ -172,6 +148,15 @@
         <option value="$PROJECT_DIR$/src/javaCore/level17/task420_lev17_lec10/NotEnoughMoneyException.java" />
         <option value="$PROJECT_DIR$/src/javaCore/level17/task420_lev17_lec10/Bankomat.java" />
         <option value="$PROJECT_DIR$/src/javaCore/level17/task420_lev17_lec10/BankAccount.java" />
+        <option value="$PROJECT_DIR$/src/javaCore/level17/wtask421_lev17_lec10/CorruptedDataException.java" />
+        <option value="$PROJECT_DIR$/src/javaCore/level17/wtask421_lev17_lec10/Solution.java" />
+        <option value="$PROJECT_DIR$/src/javaCore/level17/task422_lev17_lec10.java" />
+        <option value="$PROJECT_DIR$/src/javaCore/level17/task423_lev17_lec10/Person.java" />
+        <option value="$PROJECT_DIR$/src/javaCore/level17/task423_lev17_lec10/Sex.java" />
+        <option value="$PROJECT_DIR$/src/javaCore/level17/task423_lev17_lec10/Solution.java" />
+        <option value="$PROJECT_DIR$/src/javaCore/level17/task424_lev17_lec10_CRUD2/Sex.java" />
+        <option value="$PROJECT_DIR$/src/javaCore/level17/task424_lev17_lec10_CRUD2/Solution.java" />
+        <option value="$PROJECT_DIR$/src/javaCore/level17/task424_lev17_lec10_CRUD2/Person.java" />
       </list>
     </option>
   </component>
@@ -181,7 +166,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -241,7 +226,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="javaCore" type="462c0819:PsiDirectoryNode" />
               <item name="level17" type="462c0819:PsiDirectoryNode" />
-              <item name="task420_lev17_lec10" type="462c0819:PsiDirectoryNode" />
+              <item name="task424_lev17_lec10_CRUD2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -259,6 +244,11 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/out/artifacts/JavaRushTasks_jar/JavaRushTasks.jar" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="javaCore.level17.task424_lev17_lec10_CRUD2" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -271,7 +261,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Bankomat">
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="Bankomat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -301,33 +291,14 @@
         <option name="BuildArtifacts" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="javaCore.level17.task415_lev17_lec10.*" />
+          <option name="PATTERN" value="javaCore.level17.wtask421_lev17_lec10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="javaCore.level17.task415_lev17_lec10.Solution" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaRushTasks" />
-      <envs />
-    </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="javaCore.level17.task416_lev17_lec10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="javaCore.level17.task416_lev17_lec10.Solution" />
+      <option name="MAIN_CLASS_NAME" value="javaCore.level17.wtask421_lev17_lec10.Solution" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -342,14 +313,14 @@
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="javaCore.level17.task417_lev17_lec10.*" />
+          <option name="PATTERN" value="javaCore.level17.task423_lev17_lec10_CRUD.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="javaCore.level17.task417_lev17_lec10.Solution" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="MAIN_CLASS_NAME" value="javaCore.level17.task423_lev17_lec10_CRUD.Solution" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
@@ -458,21 +429,40 @@
       <module name="JavaRushTasks" />
       <envs />
     </configuration>
+    <configuration name="task422_lev17_lec10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="javaCore.level17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="javaCore.level17.task422_lev17_lec10" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaRushTasks" />
+      <envs />
+    </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="JAR Application.HelloWorld" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Solution (2)" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Solution (3)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Solution" />
-      <item index="4" class="java.lang.String" itemvalue="Application.task418_lev17_lec10" />
-      <item index="5" class="java.lang.String" itemvalue="Application.Bankomat" />
+      <item index="1" class="java.lang.String" itemvalue="Application.task418_lev17_lec10" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Bankomat" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Solution (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.task422_lev17_lec10" />
+      <item index="5" class="java.lang.String" itemvalue="Application.Solution" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Bankomat" />
-        <item index="1" class="java.lang.String" itemvalue="Application.task418_lev17_lec10" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Solution" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Solution (3)" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Solution (2)" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Solution" />
+        <item index="1" class="java.lang.String" itemvalue="Application.task422_lev17_lec10" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Solution (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Bankomat" />
+        <item index="4" class="java.lang.String" itemvalue="Application.task418_lev17_lec10" />
       </list>
     </recent_temporary>
   </component>
@@ -587,7 +577,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="256393000" />
+    <option name="totallyTimeSpent" value="272083000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -599,7 +589,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -675,14 +665,11 @@
           <properties />
           <option name="timeStamp" value="17" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/javaCore/level16/task403_lev16_lec13.java</url>
-          <line>34</line>
-          <properties />
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="30" />
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="31" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -691,84 +678,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/javaCore/level14/task336_lev14_lec08.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaCore/level14/task337_lev14_lec08.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="48" lean-forward="false" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaCore/level14/task338_lev14_lec08.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="120" lean-forward="false" selection-start-line="11" selection-start-column="120" selection-end-line="11" selection-end-column="120" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaCore/level14/task339_lev14_lec08/singleton1.java" />
-    <entry file="file://$PROJECT_DIR$/src/javaCore/level14/task339_lev14_lec08/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaCore/level14/task339_lev14_lec08/task339.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaCore/level15/task340_lev15_lec02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="97" lean-forward="false" selection-start-line="12" selection-start-column="97" selection-end-line="12" selection-end-column="97" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaCore/level15/task341_lev15_lec02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaCore/level15/task342_lev15_lec02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaCore/level15/task343_lev15_lec02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaCore/level15/task358_lev15_lec12_typesHard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaCore/level16/task397_lev16_lec13_game.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="62" column="12" lean-forward="false" selection-start-line="62" selection-start-column="12" selection-end-line="62" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/javaCore/level16/task400_lev16_lec13.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="951">
@@ -858,14 +767,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="841" column="16" lean-forward="false" selection-start-line="841" selection-start-column="16" selection-end-line="841" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaCore/level16/task403_lev16_lec13.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="108" lean-forward="false" selection-start-line="26" selection-start-column="108" selection-end-line="26" selection-end-column="108" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1087,16 +988,16 @@
         <state relative-caret-position="238">
           <caret line="14" column="54" lean-forward="false" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
           <folding>
-            <element signature="e#823#824#0" expanded="true" />
-            <element signature="e#859#860#0" expanded="true" />
-            <element signature="e#1021#1022#0" expanded="true" />
-            <element signature="e#1045#1046#0" expanded="true" />
-            <element signature="e#1224#1225#0" expanded="true" />
-            <element signature="e#1282#1283#0" expanded="true" />
-            <element signature="e#1327#1328#0" expanded="true" />
-            <element signature="e#1406#1407#0" expanded="true" />
-            <element signature="e#1644#1645#0" expanded="true" />
-            <element signature="e#1678#1679#0" expanded="true" />
+            <element signature="e#823#824#0" expanded="false" />
+            <element signature="e#859#860#0" expanded="false" />
+            <element signature="e#1021#1022#0" expanded="false" />
+            <element signature="e#1045#1046#0" expanded="false" />
+            <element signature="e#1224#1225#0" expanded="false" />
+            <element signature="e#1282#1283#0" expanded="false" />
+            <element signature="e#1327#1328#0" expanded="false" />
+            <element signature="e#1406#1407#0" expanded="false" />
+            <element signature="e#1644#1645#0" expanded="false" />
+            <element signature="e#1678#1679#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1138,12 +1039,12 @@
         <state relative-caret-position="170">
           <caret line="10" column="72" lean-forward="false" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="72" />
           <folding>
-            <element signature="e#759#760#0" expanded="true" />
-            <element signature="e#805#806#0" expanded="true" />
-            <element signature="e#868#869#0" expanded="true" />
-            <element signature="e#910#911#0" expanded="true" />
-            <element signature="e#976#977#0" expanded="true" />
-            <element signature="e#1021#1022#0" expanded="true" />
+            <element signature="e#759#760#0" expanded="false" />
+            <element signature="e#805#806#0" expanded="false" />
+            <element signature="e#868#869#0" expanded="false" />
+            <element signature="e#910#911#0" expanded="false" />
+            <element signature="e#976#977#0" expanded="false" />
+            <element signature="e#1021#1022#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1161,8 +1062,8 @@
         <state relative-caret-position="527">
           <caret line="31" column="6" lean-forward="false" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
           <folding>
-            <element signature="e#625#975#0" expanded="true" />
-            <element signature="e#974#975#0" expanded="true" />
+            <element signature="e#625#975#0" expanded="false" />
+            <element signature="e#974#975#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1172,10 +1073,146 @@
         <state relative-caret-position="357">
           <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
           <folding>
-            <element signature="e#200#201#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#960#961#0" expanded="true" />
-            <element signature="e#1006#1007#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="false" />
+            <element signature="e#244#245#0" expanded="false" />
+            <element signature="e#960#961#0" expanded="false" />
+            <element signature="e#1006#1007#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaCore/level13/task317_lev13_lec11_sortFromFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="64" column="8" lean-forward="false" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaCore/level15/task364_lev15_lec12/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="22" column="118" lean-forward="false" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="118" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaCore/level17/wtask421_lev17_lec10/CorruptedDataException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaCore/level17/wtask421_lev17_lec10/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaCore/level17/task422_lev17_lec10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="e#1609#1610#0" expanded="true" />
+            <element signature="e#1632#1633#0" expanded="true" />
+            <element signature="e#1668#1669#0" expanded="true" />
+            <element signature="e#1696#1697#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaCore/level17/task423_lev17_lec10_CRUD/Sex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaCore/level16/task403_lev16_lec13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#2304#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaCore/level17/task423_lev17_lec10_CRUD/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#513#514#0" expanded="true" />
+            <element signature="e#574#575#0" expanded="true" />
+            <element signature="e#605#606#0" expanded="true" />
+            <element signature="e#632#633#0" expanded="true" />
+            <element signature="e#672#673#0" expanded="true" />
+            <element signature="e#704#705#0" expanded="true" />
+            <element signature="e#731#732#0" expanded="true" />
+            <element signature="e#757#758#0" expanded="true" />
+            <element signature="e#792#793#0" expanded="true" />
+            <element signature="e#822#823#0" expanded="true" />
+            <element signature="e#855#856#0" expanded="true" />
+            <element signature="e#886#887#0" expanded="true" />
+            <element signature="e#932#933#0" expanded="true" />
+            <element signature="e#972#973#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaCore/level17/task424_lev17_lec10_CRUD2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaCore/level17/task423_lev17_lec10_CRUD/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="102" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#3613#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1791#1799#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaCore/level17/task424_lev17_lec10_CRUD2/Sex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaCore/level17/task424_lev17_lec10_CRUD2/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="37" column="22" lean-forward="false" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaCore/level17/task424_lev17_lec10_CRUD2/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="28" lean-forward="false" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#222#230#0" expanded="true" />
           </folding>
         </state>
       </provider>
