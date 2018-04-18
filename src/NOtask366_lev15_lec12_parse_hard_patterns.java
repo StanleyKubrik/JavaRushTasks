@@ -6,7 +6,7 @@ public class NOtask366_lev15_lec12_parse_hard_patterns {
     public static void main(String[] args)  throws IOException{
         String input = new BufferedReader(new InputStreamReader(System.in)).readLine();     //читаем строку из консоли
         String txt = input.replaceAll("^(.+\\?)","");                       // удаляем все до знака вопроса
-        String[] txtArray = txt.split("\\&+");                                  //создаем массив строк из строки txt, каждый элемент массива это выражение между знаками &
+        String[] txtArray = txt.split("&+");                                  //создаем массив строк из строки txt, каждый элемент массива это выражение между знаками &
 
         for (String s : txtArray){                          // печатаем каждый эл-т массива до знака =
             String tmp = s.replaceAll("=.+$","");
@@ -18,7 +18,7 @@ public class NOtask366_lev15_lec12_parse_hard_patterns {
 
         for (String s : txtArray){                                  //если какой то эл-т массива содержит "obj",
             if (s.contains("obj")){
-                value = s.replaceAll("^(.+\\=)","");
+                value = s.replaceAll("^(.+=)","");
             }
         }
 
