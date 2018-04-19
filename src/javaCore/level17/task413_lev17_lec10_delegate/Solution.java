@@ -12,7 +12,7 @@
 3. Все переопределенные методы интерфейса List должны делегировать полномочия методам объекта original.
 4. Все методы класса Solution, кроме метода main, должны быть синхронизированы.
  */
-package javaCore.level17.task413_lev17_lec10;
+package javaCore.level17.task413_lev17_lec10_delegate;
 
 import java.util.*;
 import java.util.function.Consumer;
