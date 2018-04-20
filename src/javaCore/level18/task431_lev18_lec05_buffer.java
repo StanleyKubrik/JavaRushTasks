@@ -20,7 +20,7 @@ package javaCore.level18;
 
 import java.io.*;
 
-public class task431_lev18_lec05 {
+public class task431_lev18_lec05_buffer {
     public static void main(String[] args) throws IOException {
         FileInputStream inputStream = new FileInputStream("test.txt");
         // Создаем поток-записи-байт-в-файл
