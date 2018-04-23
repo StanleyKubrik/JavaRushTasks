@@ -1,13 +1,14 @@
-package javaCore.level18;
+package javaCore.level18.task448_lev18_lec11_new;
 
-import java.util.*;
 import java.io.*;
+import java.util.*;
 
-public class task448_lev18_lec11 {
+public class Solution {
+    static Map<String, Integer> resultMap = new HashMap<>();
+
     public static void main(String[] args) throws Exception {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         String str = reader.readLine();
-        Map<String, Integer> resultMap = new HashMap<>();
 
         while (!str.equals("exit")){
             ReadThread rt = new ReadThread(str);
@@ -46,7 +47,7 @@ public class task448_lev18_lec11 {
                 }
                 fileReader.close();
 
-                //resultMap.put(fileName, maxKey);
+                resultMap.put(fileName, maxKey);
             } catch (IOException e){
                 System.out.println(e);
             }
