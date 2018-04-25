@@ -2782,3 +2782,22 @@ Context element (791,827): 'PsiBinaryExpression:"Playing " + stopPlaying().getTi
 2018-04-12 17:30:53 ERROR StubTreeLoaderImpl.b(151) - Vendor: JetBrains s.r.o
 2018-04-12 17:30:53 ERROR StubTreeLoaderImpl.b(152) - OS: Windows 7
 2018-04-12 17:30:53 ERROR StubTreeLoaderImpl.b(158) - Last Action: EditorLineStartWithSelection
+2018-04-25 09:38:10 INFO  JavaRushTasksProjectComponent.projectOpened(68) - ---------- Project JavaRushTasks opened ----------
+2018-04-25 09:38:10 INFO  JavaRushTasksProjectComponent.projectOpened(69) - ---------- Version 3.16 ----------
+
+2018-04-25 09:38:10 INFO  JavaRushTasksProjectComponent.setAutoscrolls(343) - Autoscrolls успешно установлены
+2018-04-25 09:38:15 INFO  ApacheHttpClient.createAsyncHttpClient(130) - Выбрано 1 прокси. Тип : DIRECT
+2018-04-25 09:38:15 INFO  ApacheHttpClient.<init>(88) - ApacheHttpClient проинстанциирован успешно.
+2018-04-25 09:38:16 INFO  ApacheHttpClient.testConnection(188) - responseCode = 200
+2018-04-25 09:38:16 INFO  ApacheHttpClient.testConnection(196) - result = true
+2018-04-25 09:38:16 INFO  ApacheHttpClient.login(220) - Ожидание ответа сервера.
+2018-04-25 09:38:17 INFO  ApacheHttpClient.login(220) - Ожидание ответа сервера.
+2018-04-25 09:38:17 INFO  ApacheHttpClient.login(220) - Ожидание ответа сервера.
+2018-04-25 09:38:17 INFO  ApacheHttpClient.login(220) - Ожидание ответа сервера.
+2018-04-25 09:38:17 INFO  ApacheHttpClient.login(220) - Ожидание ответа сервера.
+2018-04-25 09:38:17 INFO  ApacheHttpClient.login(224) - responseCode = 200
+2018-04-25 09:38:17 INFO  ApacheHttpClient.login(255) - JSESSIONID=E44F725EF0D71E1E3A1A158A7C1BC0B4
+2018-04-25 09:38:17 INFO  ApacheHttpClient.refreshUserInfo(283) - responseCode = 200
+2018-04-25 09:38:17 INFO  ApacheHttpClient.refreshUserInfo(289) - Информация о пользователе получена.
+2018-04-25 09:38:17 INFO  ApacheHttpClient.startGA(31) - GAService запущен.
+2018-04-25 09:38:17 WARN  JavaRushUtil.isProjectStructureCorrect(346) - Структура проекта невалидная.
