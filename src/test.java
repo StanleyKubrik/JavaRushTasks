@@ -12,6 +12,10 @@ public class test {
         System.out.println(strings[0]);
 
         System.out.println(getDialString());
+
+        String number = "+355(22)123-45-67";
+        String number2 = number.replaceAll("[^\\d]", "");
+        System.out.println(number2);
     }
 
     public static String getDialString(){
