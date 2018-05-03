@@ -3761,3 +3761,18 @@ java.lang.NullPointerException
 2018-05-02 08:50:00 WARN  JavaRushUtil.isProjectStructureCorrect(346) - Структура проекта невалидная.
 2018-05-02 17:29:02 INFO  JavaRushTasksProjectComponent.projectClosing(165) - ---------- Project JavaRushTasks closed ----------
 
+2018-05-03 08:55:02 INFO  JavaRushTasksProjectComponent.projectOpened(68) - ---------- Project JavaRushTasks opened ----------
+2018-05-03 08:55:02 INFO  JavaRushTasksProjectComponent.projectOpened(69) - ---------- Version 3.16 ----------
+
+2018-05-03 08:55:02 INFO  ApacheHttpClient.createAsyncHttpClient(130) - Выбрано 1 прокси. Тип : DIRECT
+2018-05-03 08:55:02 INFO  ApacheHttpClient.<init>(88) - ApacheHttpClient проинстанциирован успешно.
+2018-05-03 08:55:03 INFO  ApacheHttpClient.testConnection(188) - responseCode = 200
+2018-05-03 08:55:03 INFO  ApacheHttpClient.testConnection(196) - result = true
+2018-05-03 08:55:04 INFO  ApacheHttpClient.login(220) - Ожидание ответа сервера.
+2018-05-03 08:55:04 INFO  ApacheHttpClient.login(220) - Ожидание ответа сервера.
+2018-05-03 08:55:05 INFO  ApacheHttpClient.login(224) - responseCode = 200
+2018-05-03 08:55:05 INFO  ApacheHttpClient.login(255) - JSESSIONID=0B3A640EEE53A1BAB71522F3EBC9ED84
+2018-05-03 08:55:05 INFO  ApacheHttpClient.refreshUserInfo(283) - responseCode = 200
+2018-05-03 08:55:05 INFO  ApacheHttpClient.refreshUserInfo(289) - Информация о пользователе получена.
+2018-05-03 08:55:05 INFO  ApacheHttpClient.startGA(31) - GAService запущен.
+2018-05-03 08:55:05 WARN  JavaRushUtil.isProjectStructureCorrect(346) - Структура проекта невалидная.

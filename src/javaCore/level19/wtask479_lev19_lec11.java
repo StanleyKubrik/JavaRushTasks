@@ -5,6 +5,8 @@ import java.util.*;
 
 public class wtask479_lev19_lec11 {
     public static List<LineItem> lines = new ArrayList<>();
+    private static int file1count = 0;
+    private static int file2count = 0;
 
     public static void main(String[] args) throws Exception {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
@@ -26,26 +28,35 @@ public class wtask479_lev19_lec11 {
         }
         fileReader2.close();
 
-        for (int i = 0; i <= list1.size() - 1; i++) {
-            for (int x = 0; x <= list2.size() - 1; x++) {
-                if (list1.get(i).equals(list2.get(x))) {
+        try {
+            for (int i = 0; i < list1.size() - 1; i++) {
+                if (list1.get(i).equals(list2.get(i))) {
                     lines.add(new LineItem(Type.SAME, list1.get(i)));
-                    i++;
-                    x++;
+                    list2.remove(0);
                 } else {
-                    if (list1.get(i).equals(list2.get(x + 1))) {
-                        lines.add(new LineItem(Type.ADDED, list2.get(x)));
-                        x++;
+                    if (list1.get(i).equals(list2.get(i + 1))) {
+                        lines.add(new LineItem(Type.ADDED, list2.get(i + 1)));
+                        list2.remove(0);
                     } else {
                         lines.add(new LineItem(Type.REMOVED, list1.get(i)));
                     }
                 }
             }
+        } catch (IndexOutOfBoundsException e) {
+            if (list1.size() > list2.size()) {
+                for (int i = list2.size() - 1; i < list1.size() - 1; i++) {
+                    lines.add(new LineItem(Type.REMOVED, list1.get(i)));
+                }
+            } else {
+                for (int i = list1.size() - 1; i < list2.size() - 1; i++) {
+                    lines.add(new LineItem(Type.ADDED, list2.get(i)));
+                }
+            }
         }
 
-        for (LineItem s : lines) {
-            System.out.println(s);
-        }
+        /*for (LineItem s : lines) {
+            System.out.println(s.type + " " + s.line);
+        }*/
     }
 
     public enum Type {
